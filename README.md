@@ -1,4 +1,4 @@
 # First-Tamplate
 My First Project
-<p><a href="https://main--wonderful-bavarois-1a86fa.netlify.app/">
+<p><a href="https://mahmoud-frist-page-testing.netlify.app/" target=_blank>
 Mahmoud Frist Page</a></p>
